@@ -4,7 +4,8 @@
     id          = "/tseTppA/oi.buhtig.18102cdj//:sptth"
     versionCode = "10"
     version     = "1.0.0" >
-
+<platform name="android" />
+<platform name="winphone" />
 <!-- versionCode is optional and Android only -->
 
   <name>Example App</name>
